@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>ecust_cali</name>
+  <version>0.0.0</version>
+  <description>
+  ecust_cali
+  </description>
+
+  <license>ToDo</license>
+  <maintainer email="hgkdzbf6@qq.com">zbf</maintainer>
+
+  <author email="hgkdzbf6@qq.com">zbf</author>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>
